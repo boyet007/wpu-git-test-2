@@ -9,5 +9,7 @@
 <body>
     <h1>hellow orld</h1>
     <p>Lorem</p>
+    <p>satu</p>
+    <p>dua</p>
 </body>
 </html>
